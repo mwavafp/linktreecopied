@@ -2,8 +2,8 @@ import React from 'react';
 
 const links = [
   { title: "Portfolio", url: "https://your-portfolio.com" },
-  { title: "GitHub", url: "https://github.com/your-username" },
-  { title: "LinkedIn", url: "https://linkedin.com/in/your-profile" },
+  { title: "GitHub", url: "https://github.com/mwavafp" },
+  { title: "Instagram", url: "https://www.instagram.com/yowi_40.id/" },
   { title: "Twitter", url: "https://twitter.com/your-handle" },
 ];
 
@@ -17,7 +17,7 @@ const Linktree = () => {
           alt="Profile"
           className="w-24 h-24 rounded-full mx-auto border-4 border-indigo-500"
         />
-        <h1 className="text-2xl font-bold text-gray-800 mt-4">Your Name</h1>
+        <h1 className="text-2xl font-bold text-gray-800 mt-4">M. Wava Ferdiansyah Putra</h1>
         <p className="text-gray-600">Web Developer | Open Source Enthusiast</p>
       </div>
 
